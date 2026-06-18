@@ -1,6 +1,6 @@
 [project]
 name = "python-utils"
-version = "0.1.0"
+version = "1.0.0"
 description = "A collection of utility functions and classes made in python 3.14+"
 authors = [
     {name = "Atyla da Silva",email = "atylamendes97@gmail.com"}
